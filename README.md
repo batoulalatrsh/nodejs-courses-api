@@ -62,9 +62,8 @@ The project follows an MVC-style architecture:
 npm run start
 
 
----
+# 🎓 Private Courses Platform API
 
-## 🔐 Authentication
+A REST API for a private courses website built with Node.js, Express, and MongoDB.
 
-Protected routes need a token in the request header:
-
+🔗 **Live API:** nodejs-courses-api-production.up.railway.app/api/
